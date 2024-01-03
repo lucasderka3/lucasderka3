@@ -8,9 +8,11 @@
 <br>
 <h2>¿Que tecnologias uso?</h2>
 <p>Las tecnologías principales que domino son: </p>
-<li>
-  <ul>Javascript</ul>
-</li>
+<ul>
+  <li>Javascript</li>
+</ul>
+  
+
 
 
 
