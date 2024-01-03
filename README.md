@@ -10,6 +10,12 @@
 <p>Las tecnologías principales que domino son: </p>
 <ul>
   <li>Javascript</li>
+  <li>React.js</li>
+  <li>Express</li>
+  <li>Node.js</li>
+  <li>Sequelize</li>
+  <li>PostgreSQL</li>
+  <li>GIT</li>
 </ul>
   
 
