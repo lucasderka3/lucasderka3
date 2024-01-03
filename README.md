@@ -17,9 +17,13 @@
   <li>PostgreSQL</li>
   <li>GIT</li>
 </ul>
-  
 
-
+<h2>Contacto:</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/lucas-derka-36722123a/">Linkedin</a></li>
+  <li><a href="https://www.instagram.com/lucasderka/">Instagram</a></li>
+  <p>Correo: <a>derkal15@gmail.com</a></p>
+</ul>
 
 
 <!--
