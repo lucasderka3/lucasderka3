@@ -1,4 +1,7 @@
 <H1>Hola! Mi nombre es Lucas Derka</H1>
+<br>
+<h2>¿Quién soy?</h2>
+<h3>Soy un programador FullStack graduado de Henry. Hace dos años, me sumergí en el mundo de JavaScript, y desde entonces, mi motivación principal para seguir en este campo ha crecido constantemente.</h3>
 
 
 
