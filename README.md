@@ -22,7 +22,7 @@
 <ul>
   <li><a href="https://www.linkedin.com/in/lucas-derka-36722123a/">Linkedin</a></li>
   <li><a href="https://www.instagram.com/lucasderka/">Instagram</a></li>
-  <p>Correo: <a>derkal15@gmail.com</a></p>
+  <p>Correo: <a href="derkal15@gmail.com">derkal15@gmail.com</a></p>
 </ul>
 
 
