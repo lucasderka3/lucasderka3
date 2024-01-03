@@ -2,6 +2,15 @@
 <br>
 <h2>¿Quién soy?</h2>
 <p>Soy un programador FullStack graduado de Henry. Hace dos años, me sumergí en el mundo de JavaScript, y desde entonces, mi motivación principal para seguir en este campo ha crecido constantemente.<p>
+<br>
+<h2>¿Que hago actualmente?</h2>
+<p>Me dedico a seguir creando proyectos que me ayuden a crecer y terminar de asentar mis conocimientos. También estoy aprendiendo un nuevo lenguaje: Python</p>
+<br>
+<h2>¿Que tecnologias uso?</h2>
+<p>Las tecnologías principales que domino son: </p>
+<li>
+  <ul>Javascript</ul>
+</li>
 
 
 
