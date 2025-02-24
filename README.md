@@ -10,6 +10,9 @@
 <p>Las tecnologías principales que domino son: </p>
 <ul>
   <li>Javascript</li>
+  <li>Vue 3</li>
+  <li>Nuxt</li>
+  <li>Docker</li>
   <li>React.js</li>
   <li>Express</li>
   <li>Node.js</li>
