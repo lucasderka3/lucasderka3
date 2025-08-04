@@ -12,7 +12,9 @@
   <li>Javascript</li>
   <li>Vue 3</li>
   <li>Nuxt</li>
+  <li>Vuetify</li>
   <li>Docker</li>
+  <li>NestJs</li>
   <li>React.js</li>
   <li>Express</li>
   <li>Node.js</li>
