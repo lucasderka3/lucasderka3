@@ -1,10 +1,10 @@
 <H1>Hola! Mi nombre es Lucas Derka</H1>
 <br>
 <h2>¿Quién soy?</h2>
-<p>Soy un programador FullStack graduado de Henry. Hace dos años, me sumergí en el mundo de JavaScript, y desde entonces, mi motivación principal para seguir en este campo ha crecido constantemente.<p>
+<p>Soy un desarrollador Full Stack graduado en Henry. Hace dos años descubrí mi pasión por el mundo de la programación, iniciando mi camino con JavaScript. Desde entonces, he seguido creciendo, aprendiendo y fortaleciendo mis habilidades, con la motivación constante de mejorar y aportar valor en cada proyecto..<p>
 <br>
 <h2>¿Que hago actualmente?</h2>
-<p>Me dedico a seguir creando proyectos que me ayuden a crecer y terminar de asentar mis conocimientos. También estoy aprendiendo un nuevo lenguaje: Python</p>
+<p>Actualmente me dedico a crear proyectos personales y de trabajo que me permiten crecer profesionalmente y consolidar mis conocimientos. Además, estoy ampliando mis horizontes aprendiendo un nuevo lenguaje: NestJs, con el objetivo de potenciar mis habilidades en el desarrollo backend.</p>
 <br>
 <h2>¿Que tecnologias uso?</h2>
 <p>Las tecnologías principales que domino son: </p>
